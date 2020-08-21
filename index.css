@@ -8,10 +8,10 @@
 	flex-direction: column;
 }
 
-.ctech9-header-div-left {
+.ctech9-header-div-banner {
 	
 	/*width: 50%;*/
-	background-image: linear-gradient(to right, black, #00fff7);
+	background-image: linear-gradient(to right, purple, dodgerblue);
 }
 
 .ctech9-header-div-right {
@@ -40,6 +40,7 @@
 	/*top: 165px; */
 	text-align: center; 
 	vertical-align: middle;
+	padding-top: 20pt;
 }
 
 .ctech9-h1 {
